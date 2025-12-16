@@ -23,3 +23,5 @@ results from various e-commerce sites. Clicking on any product will redirect the
 - **Seamless Redirection:** Allows users to instantly redirect to the respective e-commerce site for purchasing without any hassle.  
 
 **LUXORA** aims to revolutionize the online shopping experience by acting as a bridge between users and multiple e-commerce platforms, ensuring easy access to accurate product information and comparison options.
+
+Video Demo : https://www.linkedin.com/posts/activity-7291900361940910080-ISHN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0yYz0BkDKNlbG23-8AzMAKI4gZa0dEMXk
